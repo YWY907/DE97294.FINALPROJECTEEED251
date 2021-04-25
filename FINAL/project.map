@@ -1,0 +1,66 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Apr 25 23:23:03 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x00052e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x000545      
+            1332 out of 33048 program addresses used, program memory utilization is 4%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    AGAIN   0x00002a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN1   0x000146    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN2   0x00014a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN3   0x000348    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN4   0x00034c    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    BLINK   0x000054    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   BLINK2   0x00008a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   BUZZER   0x000134    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                DELAY0.5S   0x000344    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                  DELAY1S   0x000142    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    FIRST   0x00003a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                     LED1   0x00011a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                     LOOP   0x000046    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    LOOP2   0x000080    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    LOOP3   0x000100    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    start   0x00001a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    AGAIN   0x00002a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    FIRST   0x00003a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                     LOOP   0x000046    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    BLINK   0x000054    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    LOOP2   0x000080    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   BLINK2   0x00008a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                    LOOP3   0x000100    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                     LED1   0x00011a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   BUZZER   0x000134    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                  DELAY1S   0x000142    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN1   0x000146    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN2   0x00014a    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                DELAY0.5S   0x000344    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN3   0x000348    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+                   AGAIN4   0x00034c    program     static C:\Users\weiyi\OneDrive\Documents\MPLAB Projects\project.asm
+
+
